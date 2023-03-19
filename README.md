@@ -24,6 +24,10 @@ This is the GitHub repository for the manuscript "90K/LGALS3BP Expression Is Upr
 * dpso: Days post symptom onset; the number of days that had passed since the onset of COVID-19 symptoms at the sampling timepoint.
 * serum_90k: Concentration of 90k protein in the patient's serum, in μg/ml, measured by ELISA.
 * healthy_serum_90k: Concentration of 90k protein in the matched healthy control's serum, when this is available for a patient, in μg/ml, measured by ELISA.
-* protein_pbmc_90k: Concentration of 90k protein in PBMC cell lysates for the patientint, in μg/ml, measured by ELISA. "no" indicates that this was not measured.
-* qpcr_dct_90k: deltaCt value for 
+* protein_pbmc_90k: Concentration of 90k protein in PBMC cell lysates for the patientint, in μg/ml, measured by ELISA. "no" indicates that this was not measured for the sampling timepoint indicated.
+* qpcr_dct_90k: deltaCt value for 90k qPCR, performed on RNA extracted from PBMCs. "no" indicates that this was not measured for the sampling timepoint indicated.
+* who: The WHO classification of disease severity ascribed to a patient.
+* sex: The sex of the patient. M = male, F = female.
+* age: The age in years of a patient. 
+* dex: Whether Dexamethasone was employed in the treatment of the patient, either "yes" or "no".
 
