@@ -19,7 +19,7 @@ Conclusion Our data suggests that 90K/LGALS3BP contributes to the global type I 
 
 This is the GitHub repository for the manuscript "90K/LGALS3BP Expression Is Upregulated in COVID-19 but may not Restrict SARS-CoV-2 Infection " by Bosquillon de Jarcy _et al._, 2023.  The code utilised for analysis of the patient data is deposited here. 
 
-### Patient data analysis.
+### Patient data analysis
 
 All code required to perform analysis on patient data is provided in the folder 01_PatientDataAnalysis. The actual data is also available here, in the form of a .csv file (90K_data_all.csv). A brief overview of the column headings in this file and their meaning:
 
