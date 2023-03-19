@@ -71,6 +71,7 @@ lme_who2.emm <- emmeans(lme_who2, "who_level")
 
 ### 1C ###
 
+## perform linear mixed effects model analysis to investigate whether 90k serum levels are different for different WHO severity levels of COVID-19 and if this changes over time
 
 ## log transform serum 90k level
 alldat$log_serum_level <- log(alldat$serum_90k, base=10)
