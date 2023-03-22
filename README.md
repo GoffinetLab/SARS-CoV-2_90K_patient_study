@@ -41,5 +41,5 @@ This manuscript includes analysis of scRNAseq data from a published Dual Center 
 
 Please refer to the manuscript itself for further information.
 
-The R scripts used to analyse this data in the context of this study can be found in the folder 02_scRNAseqDataAnalysis.
+The R scripts used to analyse this data in the context of this study can be found in the folder 02_scRNAseqDataAnalysis. "Berlin" and "Bonn" are used to refer to data from the two cohorts respectively.
 
